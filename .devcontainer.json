@@ -1,0 +1,8 @@
+{
+  "name": "Next.js",
+  "dockerComposeFile": "./docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/app",
+  "extensions": [],
+  "shutdownAction": "stopCompose"
+}
